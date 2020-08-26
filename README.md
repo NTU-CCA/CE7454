@@ -2,7 +2,6 @@
 |---|
 # CE7454 Deep Learning for Data Science
 
-- Course Website: http://deep-learning-xbresson.s3-website-us-west-1.amazonaws.com/
 - Instructor: [Xavier Bresson](https://www.ntu.edu.sg/home/xbresson/)
 
 ## Course Description:
@@ -29,5 +28,7 @@ The main objective of this course is to introduce the mathematical foundations, 
 - [Vanilla Neural Networks.ipynb]()
 - [Vanilla Neural Networks Exercise.ipynb]()
 
+
+<br>
 
 #### Copyright © School of Computer Science & Engineering, Nanyang Technological University. All rights reserved.
