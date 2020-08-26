@@ -2,7 +2,7 @@
 |---|
 # CE7454 Deep Learning for Data Science
 
-- Instructor: [Xavier Bresson](https://www.ntu.edu.sg/home/xbresson/)
+**Instructor:** [Xavier Bresson](https://www.ntu.edu.sg/home/xbresson/)
 
 ## Course Description:
 
@@ -15,19 +15,26 @@ The main objective of this course is to introduce the mathematical foundations, 
 ### Lecture 01
 
 ### Lecture 02
-
 - [Introduction.ipynb]()
 - [Exercise 01.ipynb]()
 - [Exercise 02.ipynb]()
 
 ### Lecture 03
-
 - [Linear Module.ipynb]()
 - [Linear Module Exercise.ipynb]()
 - [Softmax.ipynb]()
 - [Vanilla Neural Networks.ipynb]()
 - [Vanilla Neural Networks Exercise.ipynb]()
 
+### Lecture 04
+
+### Lecture 05
+
+### Lecture 06
+
+### Lecture 07
+
+### Lecture 08
 
 <br>
 
