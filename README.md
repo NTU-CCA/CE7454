@@ -27,6 +27,8 @@ The main objective of this course is to introduce the mathematical foundations, 
 - [Vanilla Neural Networks Exercise.ipynb]()
 
 ### Lecture 04
+- [Cross-Entropy Loss.ipynb]()
+- [Cross-Entropy Loss Exercise.ipynb]()
 
 ### Lecture 05
 
