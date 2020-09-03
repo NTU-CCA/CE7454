@@ -31,6 +31,10 @@ The main objective of this course is to introduce the mathematical foundations, 
 - [Cross-Entropy Loss Exercise.ipynb]()
 
 ### Lecture 05
+- [Multi-Layer Perceptron.ipynb]()
+- [Multi-Layer Perceptron Exercise.ipynb]()
+- [Training with Epochs.ipynb]()
+- [Training with Epochs Exercise.ipynb]()
 
 ### Lecture 06
 
