@@ -1,6 +1,6 @@
 |![image](https://github.com/NTU-CCA/CE7454/blob/master/logo.png)|
 |---|
-# CE7454 Deep Learning for Data Science
+# CE7454 - Deep Learning for Data Science
 
 **Instructor:** [Xavier Bresson](https://www.ntu.edu.sg/home/xbresson/)
 
