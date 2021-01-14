@@ -8,6 +8,4 @@ Deep learning has recently introduced a paradigm shift from human-design feature
 
 The main objective of this course is to introduce the mathematical foundations, the state-of-the-art architectures, and the professional libraries of deep learning architectures. Students will learn how to design their own artificial neural network to solve their data analysis task. They will also learn how to code efficiently these new algorithms using TensorFlow and PyTorch.
 
-<br>
-
 #### Copyright © School of Computer Science & Engineering, Nanyang Technological University. All rights reserved.
