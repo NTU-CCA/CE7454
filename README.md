@@ -1,4 +1,4 @@
-(NOTE: All the content was found on the Internet.)
+*(NOTE: All the content was found on the Internet.)*
 
 # CE7454 - Deep Learning for Data Science
 
